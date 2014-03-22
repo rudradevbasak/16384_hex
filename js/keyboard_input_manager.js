@@ -37,11 +37,11 @@ KeyboardInputManager.prototype.listen = function () {
   var map = {
     39: 2, // Right
     37: 3, // Left
-    87: 0, // W
+    90: 0, // W -> Z
     69: 1, // E
-    65: 2, // A
+    81: 2, // A -> Q
     68: 3, // D
-    90: 4, // Z
+    87: 4, // Z -> Z
     88: 5  // X
   };
 
